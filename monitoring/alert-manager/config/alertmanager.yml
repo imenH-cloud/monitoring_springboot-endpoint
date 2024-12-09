@@ -13,10 +13,11 @@ receivers:
         channel: '#monitoring-infrastructure'
         api_url: 'https://hooks.slack.com/services/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'
     email_configs:
-      - to: 'arijchetoui1@gmail.com'
-        from: 'arijchetoui1@gmail.com'
+      - to: 'imenhamada17@gmail.com'
+        from: 'imenhamada17@gmail.com'
         smarthost: 'smtp.gmail.com:587'
-        auth_username: 'arijchetoui1@gmail.com'
-        auth_identity: 'arijchetoui1@gmail.com'
-        auth_password: 'pava eufo jmmc movk'
+        auth_username: 'imenhamada17@gmail.com'
+        auth_identity: 'imenhamada17@gmail.com'
+        auth_password: 'your_app_password'
         send_resolved: true
+
